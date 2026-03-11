@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Wandiya%20James&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=🤖%20AI%20Student%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision%20%7C%20Open%20to%20Collaborate&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+AI+that+matters+🧠;Computer+Vision+Engineer+👁️;Deep+Learning+Enthusiast+🔥;Always+learning%2C+always+building+🚀;Open+to+Collaborate+🤝" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building%20AI%20that%20matters%20%F0%9F%A7%A0;Computer%20Vision%20Engineer%20%F0%9F%91%81%EF%B8%8F;Deep%20Learning%20Enthusiast%20%F0%9F%94%A5;Always%20learning%2C%20always%20building%20%F0%9F%9A%80;Open%20to%20Collaborate%20%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/><br/>
