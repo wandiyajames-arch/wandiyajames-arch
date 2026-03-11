@@ -62,7 +62,7 @@ class WandiyaJames:
 |---|---|
 | [🧠 Brain Tumor MRI Classification](https://github.com/wandiyajames-arch/brain-tumor-mri-classification) | PyTorch · ResNet50 · OpenCV |
 | [🎵 Audio Emotion Recognition](https://github.com/wandiyajames-arch/audio-emotion-recognition) | PyTorch · Librosa · LSTM |
-
+| [🍲 Food Image Recognition](https://github.com/wandiyajames-arch/food-classifications) | PyTorch · EfficientNet · OpenCV |
 </div>
 
 ---
