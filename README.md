@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Wandiya%20James&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=🤖%20AI%20Student%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision%20%7C%20Open%20to%20Collaborate&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building%20AI%20that%20matters%20%F0%9F%A7%A0;Computer%20Vision%20Engineer%20%F0%9F%91%81%EF%B8%8F;Deep%20Learning%20Enthusiast%20%F0%9F%94%A5;Always%20learning%2C%20always%20building%20%F0%9F%9A%80;Open%20to%20Collaborate%20%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building%20AI%20that%20matters%20%F0%9F%A7%A0;Computer%20Vision%20Engineer%20%F0%9F%91%81%EF%B8%8F;Deep%20Learning%20Enthusiast%20%F0%9F%94%A5;Always%20learning%2C%20always%20building%20%F0%9F%9A%80;Open%20to%20Collaborate%20%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -63,6 +63,7 @@ class WandiyaJames:
 | [🧠 Brain Tumor MRI Classification](https://github.com/wandiyajames-arch/brain-tumor-mri-classification) | PyTorch · ResNet50 · OpenCV |
 | [🎵 Audio Emotion Recognition](https://github.com/wandiyajames-arch/audio-emotion-recognition) | PyTorch · Librosa · LSTM |
 | [🍲 Food Image Recognition](https://github.com/wandiyajames-arch/food-classifications) | PyTorch · EfficientNet · OpenCV |
+
 </div>
 
 ---
@@ -71,14 +72,14 @@ class WandiyaJames:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=wandiyajames-arch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandiyajames-arch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=wandiyajames-arch&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false&title_color=6366F1&icon_color=6366F1&text_color=374151&bg_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandiyajames-arch&layout=compact&theme=default&hide_border=false&title_color=6366F1&text_color=374151&bg_color=ffffff"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wandiyajames-arch&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wandiyajames-arch&theme=default&hide_border=false&ring=6366F1&fire=F97316&currStreakLabel=6366F1&sideLabels=374151&dates=6B7280" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=wandiyajames-arch&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=wandiyajames-arch&theme=flat&no-frame=false&row=1&column=6&margin-w=10" />
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wandiyajames-arch&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B)](https://github.com/wandiyajames-arch)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wandiyajames-arch&theme=github-compact&hide_border=false&color=6366F1&line=6366F1&point=F97316)](https://github.com/wandiyajames-arch)
 
 </div>
 
@@ -89,7 +90,7 @@ class WandiyaJames:
 [![GitHub](https://img.shields.io/badge/GitHub-wandiyajames--arch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wandiyajames-arch)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=wandiyajames-arch&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=wandiyajames-arch&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos%20if%20you%20find%20them%20useful&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
 
