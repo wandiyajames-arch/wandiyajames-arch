@@ -26,7 +26,7 @@
 class WandiyaJames:
     role     = "AI & Deep Learning Student"
     focus    = ["Computer Vision", "Deep Learning", "Data Science"]
-    stack    = ["Python", "PyTorch", "TensorFlow", "OpenCV"]
+    stack    = ["Python", "PyTorch", "TensorFlow", "OpenCV", "Streamlit"]
     open_to  = "Collaborations & exciting projects 🤝"
     goal     = "Solve real-world problems with AI"
 ```
@@ -46,9 +46,31 @@ class WandiyaJames:
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+### 🌟 Featured — Live Project
+
+<div align="center">
+
+### [📺 Netflix Content Intelligence Dashboard](https://auspify-internship-dashboard.streamlit.app/)
+
+[![Open in Streamlit](https://img.shields.io/badge/▶%20Open%20Live%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://auspify-internship-dashboard.streamlit.app/)
+[![Source](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wandiyajames-arch/Auspify-Internship)
+
+An end-to-end data science project on 8,786 Netflix titles — data cleaning, exploratory
+analysis, a TF-IDF recommender, a classification model with a label-leakage audit, and an
+interactive dashboard that serves the trained model live.
+
+`Pandas` · `scikit-learn` · `Streamlit` · `Plotly`
 
 </div>
 
@@ -60,6 +82,7 @@ class WandiyaJames:
 
 | Project | Stack |
 |---|---|
+| [📺 Netflix Content Intelligence](https://github.com/wandiyajames-arch/Auspify-Internship) · [**live ▶**](https://auspify-internship-dashboard.streamlit.app/) | Pandas · scikit-learn · Streamlit |
 | [🧠 Brain Tumor MRI Classification](https://github.com/wandiyajames-arch/brain-tumor-mri-classification) | PyTorch · ResNet50 · OpenCV |
 | [🎵 Audio Emotion Recognition](https://github.com/wandiyajames-arch/audio-emotion-recognition) | PyTorch · Librosa · LSTM |
 | [🍲 Food Image Recognition](https://github.com/wandiyajames-arch/food-classifications) | PyTorch · EfficientNet · OpenCV |
