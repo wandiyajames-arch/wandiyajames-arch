@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Wandiya%20James&fontSize=70&fontColor=6366F1&animation=fadeIn&fontAlignY=40&desc=🤖%20AI%20Student%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision%20%7C%20Data%20Science%20%7C%20AI%20for%20Agriculture&descAlignY=58&descSize=16&descColor=1f2937" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building%20AI%20that%20matters%20%F0%9F%A7%A0;Computer%20Vision%20Engineer%20%F0%9F%91%81%EF%B8%8F;Deep%20Learning%20Enthusiast%20%F0%9F%94%A5;Data%20Science%20%26%20Analytics%20%F0%9F%93%8A;AI%20for%20Agriculture%20%F0%9F%8C%BE;Always%20learning%2C%20always%20building%20%F0%9F%9A%80;Open%20to%20Collaborate%20%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building%20AI%20that%20matters%20%F0%9F%A7%A0;Computer%20Vision%20Engineer%20%F0%9F%91%81%EF%B8%8F;Deep%20Learning%20Enthusiast%20%F0%9F%94%A5;Data%20Science%20%26%20Analytics%20%F0%9F%93%8A;NLP%20%26%20Large%20Language%20Models%20%F0%9F%97%A3%EF%B8%8F;AI%20for%20Agriculture%20%F0%9F%8C%BE;Always%20learning%2C%20always%20building%20%F0%9F%9A%80;Open%20to%20Collaborate%20%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -25,8 +25,10 @@
 ```python
 class WandiyaJames:
     role     = "AI & Deep Learning Student"
-    focus    = ["Computer Vision", "Deep Learning", "Data Science", "AI for Agriculture"]
-    stack    = ["Python", "PyTorch", "TensorFlow", "OpenCV", "Streamlit", "Hugging Face"]
+    focus    = ["Computer Vision", "Deep Learning", "Data Science",
+                "NLP & LLMs", "Explainable AI", "AI for Agriculture"]
+    stack    = ["Python", "PyTorch", "TensorFlow", "OpenCV",
+                "Streamlit", "Hugging Face", "scikit-learn"]
     open_to  = "Collaborations & exciting projects 🤝"
     goal     = "Solve real-world problems with AI in Africa"
 ```
@@ -50,6 +52,9 @@ class WandiyaJames:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -77,18 +82,47 @@ interactive dashboard that serves the trained model live.
 
 ---
 
-### 🚀 Projects
+### 🔬 Research
 
-<div align="center">
+| Project | What it does | Stack |
+|---|---|---|
+| **🌍 Food Security Forecasting** · *MSc thesis* | Interpretable multi-source ML framework forecasting subnational food insecurity across Nigeria | LSTM · TFT · XGBoost · SHAP |
+| **🧠 Business Language Layer (BLL)** · *conference paper* | Explainable-AI framework that translates model explanations into business intelligence | XAI · SHAP · LIME |
+| **🎯 Trustworthy Agentic AI** · *ICAAD 2026* | Pareto-based framework for multi-objective decision-making in autonomous agents | Multi-objective optimisation |
 
-| Project | Stack |
-|---|---|
-| [📺 Netflix Content Intelligence](https://github.com/wandiyajames-arch/Auspify-Internship) · [**live ▶**](https://auspify-internship-dashboard.streamlit.app/) | Pandas · scikit-learn · Streamlit |
-| [🧠 Brain Tumor MRI Classification](https://github.com/wandiyajames-arch/brain-tumor-mri-classification) | PyTorch · ResNet50 · OpenCV |
-| [🎵 Audio Emotion Recognition](https://github.com/wandiyajames-arch/audio-emotion-recognition) | PyTorch · Librosa · LSTM |
-| [🍲 Food Image Recognition](https://github.com/wandiyajames-arch/food-classifications) | PyTorch · EfficientNet · OpenCV |
+---
 
-</div>
+### 🤖 AI & Machine Learning
+
+| Project | What it does | Stack |
+|---|---|---|
+| **🗣️ Wolof AI Assistant** | Qwen3-0.6B fine-tuned with LoRA for Wolof, deployed as an interactive assistant on Hugging Face Spaces | Qwen3 · LoRA · HF Spaces |
+| **📐 IGCSE Math Tutor** | Local-first intelligent tutoring system combining a deterministic solver, RAG retrieval, and a local LLM | RAG · Local LLM · Python |
+| **📰 Fake News Detection** | NLP classifier for detecting misinformation in news articles, served through a Streamlit app | NLP · scikit-learn · Streamlit |
+| [🧠 Brain Tumor MRI Classification](https://github.com/wandiyajames-arch/brain-tumor-mri-classification) | Deep learning model classifying brain tumours from MRI scans | PyTorch · ResNet50 · OpenCV |
+| [🎵 Audio Emotion Recognition](https://github.com/wandiyajames-arch/audio-emotion-recognition) | Speech emotion recognition from raw audio features | PyTorch · Librosa · LSTM |
+| [🍲 Food Image Recognition](https://github.com/wandiyajames-arch/food-classifications) | Food image classification with transfer learning | PyTorch · EfficientNet · OpenCV |
+
+---
+
+### 📊 Data Science & Analytics
+
+| Project | What it does | Stack |
+|---|---|---|
+| [📺 Netflix Content Intelligence](https://github.com/wandiyajames-arch/Auspify-Internship) · [**live ▶**](https://auspify-internship-dashboard.streamlit.app/) | Cleaning, EDA, recommender, classifier and live dashboard over 8,786 titles | Pandas · scikit-learn · Streamlit |
+| **🏨 Hotel Cancellation Prediction** | End-to-end ML pipeline with SMOTE rebalancing and SHAP explanations, deployed on Streamlit | scikit-learn · SMOTE · SHAP |
+| **🧪 Air Quality Index Prediction** | Time-series forecasting of air pollution in Mbour, Senegal | Random Forest · LSTM |
+
+---
+
+### 🌾 Agriculture, IoT & Web
+
+| Project | What it does | Stack |
+|---|---|---|
+| **🛡️ Secure IoT Agricultural Monitoring** | Farm monitoring system with sensor ingestion and secure data storage | Python · SQL · IoT |
+| **🚜 Smart Livestock Management** | IoT platform monitoring livestock health and behaviour | IoT · Python · Analytics |
+| **🌾 Agriculture Mechanisation Hiring** | Web platform letting local farmers hire agricultural machinery | React · Tailwind CSS |
+| **🐄 Rantec** | Web platform connecting livestock farmers with veterinarians | React · Tailwind CSS |
 
 ---
 
